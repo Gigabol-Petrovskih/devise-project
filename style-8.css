@@ -24,8 +24,8 @@ html, body {
 }
 
 .transform {
-  background-color: #000;
-  color: #fff;
+  background-color: rgb(106, 21, 218);
+  color: rgb(211, 35, 35);
 }
 
 .transform__wrapper {
@@ -55,7 +55,7 @@ html, body {
 }
 
 .demo__item {
-  background-color: #202020;
+  background-color: #11404e;
   width: 240px;
   height: 240px;
   margin-right: 10px;
@@ -77,7 +77,7 @@ html, body {
 }
 
 .demo__item:hover {
-  background-color: #e4265f;
+  background-color: #1ebb19;
 }
 
 .demo__item-title {
